@@ -1,6 +1,6 @@
 # generator-titanium [![Build Status](https://secure.travis-ci.org/Bradleycorn/generator-titanium.png?branch=master)](https://travis-ci.org/Bradleycorn/generator-titanium)
 
-A generator for [Yeoman](http://yeoman.io).
+A generator for [Yeoman](http://yeoman.io), to create a new Appcelerator Titanium mobile app project. This generator will scaffold out a new Titanium mobile app configured for iOS, Android, and mobile web. Optionally, it will create an initial tab group with 2 tabs, or just a default window.
 
 
 ## Getting Started
