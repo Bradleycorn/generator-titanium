@@ -1,0 +1,9 @@
+#appname: <%= appName %>
+#appid: <%= appId %>
+#type: mobile
+#guid: <%= guid %>
+#version: 1.0
+#publisher: not specified
+#url: not specified
+#image: appicon.png
+#desc: not specified
