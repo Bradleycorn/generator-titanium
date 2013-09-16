@@ -89,7 +89,7 @@ TitaniumGenerator.prototype.templates = function templates() {
 	this.template('_project', '.project');
 	this.template('manifest');
 	this.template('tiapp.xml');
-	this.template('Resources/globals.js', 'Resources/' + this.safeAppName + ".js");
+	this.template('globals.js', 'Resources/' + this.safeAppName + ".js");
 	this.template('Resources/lib/db.js');
 	this.template('Resources/ui/lib/NavButton.js');
 	this.template('Resources/ui/lib/WindowNav.js');
